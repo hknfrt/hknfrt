@@ -46,8 +46,8 @@ login and enhanced security.]
 Feel free to reach out if you’d like to collaborate on a project, or just say hi!
 
 - 📧 Email: [hknfrtt@proton.me]
-- 🐦 Twitter: [[(https://x.com/hknfrtt)]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/hakanfirat/)]
+- 🐦 Twitter: [https://x.com/hknfrtt]
+- 💼 LinkedIn: [https://www.linkedin.com/in/hakanfirat/]
 
 Thanks for visiting my profile! 😄
 
