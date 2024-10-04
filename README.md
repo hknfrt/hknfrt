@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hknfrt
 - 👀 I’m interested in Javascript and Typescript
-- 🌱 I’m currently learning Typescript
+
 
 <!---
 hknfrt/hknfrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
