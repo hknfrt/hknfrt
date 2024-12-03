@@ -45,8 +45,8 @@ login and enhanced security.]
 
 Feel free to reach out if you’d like to collaborate on a project, or just say hi!
 
-- 📧 Email: [hknfrtt@proton.me]
-- 🐦 Twitter: [https://x.com/hknfrtt]
+- 📧 Email: **hknfrtt@proton.me**
+- 🐦 Twitter: **https://x.com/hknfrtt**
 
 Thanks for visiting my profile! 😄
 
