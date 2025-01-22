@@ -8,7 +8,7 @@ I'm a Full Stack Developer specializing in **JavaScript**, **TypeScript**, and c
 - 🌱 I’m currently learning: **Electronjs**
 - 👯 I’m looking to collaborate on: **Open-source projects, Web Development, Blockchain Technologies**
 - 💬 Ask me about: **JavaScript, TypeScript, React, Next.js, Full Stack Development**
-- 📫 How to reach me: **hknfrtt@proton.me**
+
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 ### Tech Stack
@@ -45,8 +45,6 @@ login and enhanced security.]
 ### Get In Touch
 
 Feel free to reach out if you’d like to collaborate on a project, or just say hi!
-
-- 📧 Email: **hknfrtt@proton.me**
 
 
 Thanks for visiting my profile! 😄
