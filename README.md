@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hknfrt
+- 👋 Hi, I’m hakan
 
 ### About Me
 
