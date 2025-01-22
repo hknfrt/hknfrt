@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Full Stack Developer specializing in **JavaScript**, **TypeScript**, and cutting-edge frameworks like **Next.js** and **React**. Passionate about creating efficient, scalable web applications, I focus on both frontend and backend technologies.
+I'm a Software Developer specializing in **JavaScript**, **TypeScript**, and cutting-edge frameworks like **Next.js** and **React**. Passionate about creating efficient, scalable web applications, I focus on both frontend and backend technologies.
 
 - 🔭 I’m currently working on: **Jokuh Platform**
 - 🌱 I’m currently learning: **Electronjs**
