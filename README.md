@@ -22,9 +22,9 @@ I'm a Software Developer specializing in **JavaScript**, **TypeScript**, and cut
 
 Here are some of my projects that I'm proud of:
 
-1. **[SurveyJS + Stripe Integration]** - [Built an application to collect user information and
+1. **[SurveyJS + Stripe Integration]** - Built an application to collect user information and
 process payments through Stripe, ensuring smooth
-user experiences and secure transactions.]
+user experiences and secure transactions.
  
    
 2. **[Mail Provider Integration]** - [Integrated an open-source mail provider with end-
