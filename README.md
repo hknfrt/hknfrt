@@ -32,9 +32,9 @@ to-end encryption (E2E), set up domains, and
 configured servers for secure email
 communication
   
-3. **[Authentication System Development]** - [Implemented a modern authentication system
+3. **[Authentication System Development]** - Implemented a modern authentication system
 using Webauthn API, allowing for passwordless
-login and enhanced security.]
+login and enhanced security.
 
 4. **[Discord Bot]** - [Discord Bot]
 5. **[Appointment Bot]** - [Appointment Bot]
