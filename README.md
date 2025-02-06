@@ -27,10 +27,10 @@ process payments through Stripe, ensuring smooth
 user experiences and secure transactions.
  
    
-2. **[Mail Provider Integration]** - [Integrated an open-source mail provider with end-
+2. **[Mail Provider Integration]** - Integrated an open-source mail provider with end-
 to-end encryption (E2E), set up domains, and
 configured servers for secure email
-communication]
+communication
   
 3. **[Authentication System Development]** - [Implemented a modern authentication system
 using Webauthn API, allowing for passwordless
