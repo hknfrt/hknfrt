@@ -36,7 +36,7 @@ communication
 using Webauthn API, allowing for passwordless
 login and enhanced security.
 
-4. **[Discord Bot]** - [Discord Bot]
+4. **Discord Bot** 
 5. **[Appointment Bot]** - [Appointment Bot]
 
 
