@@ -4,7 +4,7 @@
 
 I'm a Software Developer specializing in **JavaScript**, **TypeScript**, and cutting-edge frameworks like **Next.js** and **React**. Passionate about creating efficient, scalable web applications, I focus on both frontend and backend technologies.
 
-- 🔭 I’m currently working on: **Jokuh Platform**
+- 🔭 I’m currently working on: **My mobil app**
 - 🌱 I’m currently learning: **Electronjs**
 - 👯 I’m looking to collaborate on: **Open-source projects, Web Development, Blockchain Technologies**
 - 💬 Ask me about: **JavaScript, TypeScript, React, Next.js, Full Stack Development**
