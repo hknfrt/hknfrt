@@ -12,7 +12,7 @@ I'm a Software Developer specializing in **JavaScript**, **TypeScript**, and cut
 
 ### Tech Stack
 
-- 💻 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Sass
+- 💻 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, React Native, HTML5, CSS3
 - 🛠️ **Backend:** Node.js, Express, MongoDB, Postgresql, RESTful APIs
 - 📦 **Version Control:** Git, GitHub
 - ☁️ **Cloud & Deployment:** Vercel, Heroku, Netlify
