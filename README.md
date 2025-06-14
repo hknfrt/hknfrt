@@ -9,7 +9,6 @@ I'm a Software Developer specializing in **JavaScript**, **TypeScript**, and cut
 - 👯 I’m looking to collaborate on: **Open-source projects, Web Development, Blockchain Technologies**
 - 💬 Ask me about: **JavaScript, TypeScript, React, Next.js, React Native, Full Stack Development**
 
-- ⚡ Fun fact: **[Something Interesting About You]**
 
 ### Tech Stack
 
